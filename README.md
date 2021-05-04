@@ -1,2 +1,6 @@
 # Employee Attrition
- The project is to help a company which is trying to control attrition. There are two sets of data: "Existing employees" and "Employees who have left". Following attributes are available for every employee; -Satisfaction Level -Last evaluation -Number of projects -Average monthly hours -Time spent at the company -Whether they have had a work accident -Whether they have had a promotion in the last 5 years -Departments (column sales) -Salary. I will be using my analytics skills to answer the following questions :  What type of employees are leaving? Which employees are prone to leave next. Recommendations
+The project is to help a company which is trying to control attrition. There are two sets of data: "Existing employees" and "Employees who have left". Following attributes are available for every employee; -Satisfaction Level -Last evaluation -Number of projects -Average monthly hours -Time spent at the company -Whether they have had a work accident -Whether they have had a promotion in the last 5 years -Departments (column sales) -Salary. 
+I will be using my analytics skills to answer the following questions :  
+1. What type of employees are leaving? 
+2. Which employees are prone to leave next? 
+3. Recommendations
